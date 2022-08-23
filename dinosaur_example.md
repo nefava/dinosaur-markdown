@@ -9,7 +9,8 @@ Reconstructed skeleton of the titanosaur Argentinosaurus huinculensis, often con
 
 ## Record sizes
 
-![Scale diagram comparing a human and the largest-known dinosaurs of five major clades.](/figures/Longest_dinosaur_by_clade.svg.png "Scale diagram comparing a human and the largest-known dinosaurs of five major clades.")
+![Scale diagram comparing a human and the largest-known dinosaurs of five major clades.](/figures/Longest_dinosaur_by_clade.svg.png)
+Scale diagram comparing a human and the largest-known dinosaurs of five major clades.
 
 The sauropods were the longest and heaviest dinosaurs. For much of the dinosaur era, the smallest sauropods were larger than almost anything else in their habitat, and the largest were an order of magnitude more massive than anything else known to have walked the Earth since. Giant prehistoric mammals such as Paraceratherium and Palaeoloxodon (the largest land mammals ever discovered) were dwarfed by the giant sauropods, and only modern whales approach or surpass them in weight, though they live in the oceans.
 
