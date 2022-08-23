@@ -4,7 +4,8 @@ Size is an important aspect of **dinosaur paleontology**, of interest to both th
 
 
 
-![Reconstructed skeleton of the titanosaur Argentinosaurus huinculensis, often considered the largest-known dinosaur](/figures/Museum_koenig_ausstellung_2010.jpg "Reconstructed skeleton of the titanosaur Argentinosaurus huinculensis, often considered the largest-known dinosaur")
+![Reconstructed skeleton of the titanosaur Argentinosaurus huinculensis, often considered the largest-known dinosaur](/figures/Museum_koenig_ausstellung_2010.jpg) 
+Reconstructed skeleton of the titanosaur Argentinosaurus huinculensis, often considered the largest-known dinosaur
 
 ## Record sizes
 
